@@ -1,0 +1,1 @@
+function canIRequire(){var a=root.createElement("form"),c=root.createElement("input"),b=root.createElement("input");b.type="submit";c.required=!0;a.appendChild(c);a.appendChild(b);var d=!0;a.onsubmit=function(a){a.preventDefault();d=!1};b.click();return d};
