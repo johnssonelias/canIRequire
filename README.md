@@ -1,5 +1,6 @@
 A simple javascript function that checks if a client(browser)
-supports html5 validation.
+can enforce the required attribute on an input.
 
-Just paste the code-snippet into your library code and call it.
+script.js is the source
+min-script.js is the minified version
 
